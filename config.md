@@ -16,6 +16,10 @@
 图标：fa-solid fa-blog
 网址：https://firefly-8vy.pages.dev
 
+名称：猫咪博客
+图标：fa-solid fa-cat
+网址：https://blog-cat-5da.pages.dev/
+
 名称：GitHub
 图标：fa-brands fa-github
 网址：https://github.com/MatildaHan
