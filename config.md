@@ -14,7 +14,7 @@
 
 名称：博客
 图标：fa-solid fa-blog
-网址：https://firefly-8vy.pages.dev
+网址：https://blog-whono.pages.dev/
 
 名称：猫咪博客
 图标：fa-solid fa-cat
